@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repo contains the Business Case Business Analyst - Health QC.
+This repo contains the Business Case - Business Analyst Health QC.
 
 
 ## Objective:
